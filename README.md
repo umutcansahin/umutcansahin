@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development
 - 📫 [LinkedIn](https://www.linkedin.com/in/umutcan-sahin-au/)
 - 👨🏻‍💻 [Rick And Morty - Kotlin - Android ](https://github.com/umutcansahin/RickAndMorty)
+- 👾 [You can reach my resume](https://umutcansahin.github.io/my-resume/)
