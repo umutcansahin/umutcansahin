@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 -->
 - 🌱 I’m currently learning Web Development
-- 📫 [LinkedIn] (https://www.linkedin.com/in/umutcan-sahin-au/)
-- 👨🏻‍💻 [Rick And Morty - Kotlin - Android ] (https://github.com/umutcansahin/RickAndMorty)
+- 📫 [LinkedIn](https://www.linkedin.com/in/umutcan-sahin-au/)
+- 👨🏻‍💻 [Rick And Morty - Kotlin - Android ](https://github.com/umutcansahin/RickAndMorty)
